@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PowerGridConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="config.xsd">
+        <Nx>192</Nx>
+        <Ny>192</Ny>
+        <Nz>1</Nz>
+        <Niter>10</Niter>
+        <Ntimeseg>20</Ntimeseg>
+        <Ncoils>32</Ncoils>
+        <Nshots>1</Nshots>
+        <Nphases>1</Nphases>
+        <Nimages>1</Nimages>
+        <Nslabs>1</Nslabs>
+        <Beta>0</Beta>
+</PowerGridConfig>
